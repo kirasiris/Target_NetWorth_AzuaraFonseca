@@ -1,40 +1,16 @@
-250
-10000
-14000
-15000
-44000
-50000
-200000
-200000
+533250
 Assets sorted in Descending Order
-200000
-200000
-50000
-44000
-15000
-14000
-10000
-250
+533250
 The sum of the Liabilities = 251360
 Liabilities sorted in ascending order
-1800
-4560
-15000
-20000
-30000
-180000
+251360
 Liabilities sorted in Descending Order
-180000
-30000
-20000
-15000
-4560
-1800
+251360
 ===================================================================
 =           Actual Networth         | 281890			          =
-=           Difference Networth     | 11890					      =
-=           Ideal Networth          | 540000			          =
+=           Difference Networth     | 281620					      =
+=           Ideal Networth          | 540			          =
 ===================================================================
-Right now, I am $11890 over my target net worth.  Ideally the goal is to reach beyond the $540000
+Right now, I am $281620 over my target net worth.  Ideally the goal is to reach beyond the $540
 I intend to research and apply an investment strategy to close the gap, pay off existing loans/liabilities, invest in more appreciative assets. - stay the course.
 Additionally, by acquiring more assets, and reducing monthly regular bills, we should get closer to the target number.

@@ -7,16 +7,18 @@ using System.Linq;
 class MainClass {
 
   public static void Main(string[] args) {
-    
+  
     // Prompt user to enter age
-    Console.Write("Enter Your Age in Years e.g 24:"); 
-    
+    Console.Write("Enter Your Age in Years e.g 24:");
+
     int age = int.Parse(Console.ReadLine());
+
     Console.WriteLine();
     // Prompt user to enter Income
     Console.Write("Enter Pre-tax Income:"); // Prompt
-    
+
     double income = int.Parse(Console.ReadLine());
+    
     Console.WriteLine();
     
     // Program initiates calculation using the inputs entered and stores the uotput in netWorth Variable. TARGET NETWORTH
@@ -28,20 +30,17 @@ class MainClass {
     
     // Prompt User to Enter the Number of Assets
     Console.Write("Enter the total number of assets:"); // MaxAssets
+    
     int maxAsset = int.Parse(Console.ReadLine());
     
     Console.WriteLine();
     // Prompt User to Enter the Number of liabilities
     Console.Write("Enter the total number of liabilities:"); // Maxliabilities
+
     int maxLiabilities = int.Parse(Console.ReadLine());
-    
-    // WriteLine("SORTED ASSET :");
-    // WriteLine("SORTED LIAB :");
     
     List<double> assets = new List<double>();
     List<double> liabilities = new List<double>();
-    // List<int> numbers = new List<int>();
-    // List<string> names = new List<string>();
     /*
     *
     * Assets
